@@ -23,13 +23,13 @@ The website is available in English and Greek, with a language switcher connecti
 
 ```text
 /
-├── index.html                         # English booking page
-├── style.css                         # Shared website styles
+├── index.html
+├── style.css
 ├── README.md
 ├── assets/
-│   └── bloohealth-healthbook.png      # Combined BlooHealth × HealthBook+ logo
+│   └── bloohealth-healthbook.png
 └── el/
-    └── index.html                     # Greek booking page
+    └── index.html
 ```
 
 Both language versions share the same stylesheet and logo asset.
@@ -88,16 +88,6 @@ The root `index.html` serves the English page. The Greek version is available un
 3. The client is redirected to the corresponding Calendly page.
 4. A date and time are selected.
 5. The booking is confirmed through Calendly.
-
----
-
-## Current Links
-
-- **BlooHealth website:** `https://bloohealth.framer.website/`
-- **BlooHealth meeting — English:** `https://calendly.com/novaxia/meetingwithbloohealth`
-- **BlooHealth meeting — Greek:** `https://calendly.com/novaxia/meetingwithbloohealthgr`
-- **HealthBook+ meeting — English:** `https://calendly.com/novaxia/meetingwithhealthbook`
-- **HealthBook+ meeting — Greek:** `https://calendly.com/novaxia/meetingwithhealthbookgr`
 
 ---
 
